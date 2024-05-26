@@ -1,2 +1,2 @@
 # web
-Build better life.
+Build the better life.
